@@ -3,7 +3,7 @@
 ## Overview
 We present **SynCheck**, a quality-guided framework designed to optimize the use of synthetic data in wireless sensing tasks. While generative models have demonstrated potential in augmenting real-world datasets, the inconsistent quality of synthetic data often results in unreliable performance improvements. SynCheck addresses this challenge by refining synthetic data quality during task model training, consistently outperforming traditional quality-oblivious approaches.
 
-This repository provides our implementation of SynCheck, including code for synthetic data generation, as well as training scripts for baseline methods and SynCheck. The artifact evaluation is divided into four parts, with detailed instructions for each part available in the README files of the corresponding subdirectories.
+This repository provides our implementation of SynCheck, including code for synthetic data generation, as well as training scripts for baseline methods and SynCheck. The artifact evaluation is divided into 7 parts, with detailed instructions for each part available in the README files of the corresponding subdirectories.
 
 ## Prerequisites
 To set up the environment, install PyTorch and other required dependencies using the following command:
