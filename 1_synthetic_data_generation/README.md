@@ -43,7 +43,7 @@ We leverage the open-source implementation of [RF-Diffusion](https://github.com/
    ├── 20181130
    │   ├── user5
    │   │   ├── user5-1-1-1-1-r1.npz
-   │   │   ├── user5-1-1-1-1-r2.npz
+   │   │   ├── user5-1-1-1-1-r3.npz
    │   │   ├── ...
    │   ├── user10
    │   ├── ...
